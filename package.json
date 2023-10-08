@@ -1,6 +1,6 @@
 {
   "name": "exy-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express.js router with enhanced functionality for validation and OpenAPI documentation",
   "main": "index.js",
   "files": [
