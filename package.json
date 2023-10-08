@@ -1,0 +1,40 @@
+{
+  "name": "exy-router",
+  "version": "1.0.0",
+  "description": "Express.js router with enhanced functionality for validation and OpenAPI documentation",
+  "main": "index.js",
+  "files": [
+    "package.json",
+    "index.js",
+    "validate.js",
+    "swagger.js",
+    "LICENSE"
+  ],
+  "keywords": [
+    "swagger",
+    "express",
+    "ajv",
+    "validation",
+    "routing",
+    "documentation"
+  ],
+  "author": {
+    "name": "Shahzad Hamza",
+    "email": "js.specialist@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shahzadhamza/exy-router.git"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/shahzadhamza/exy-router/issues"
+  },
+  "homepage": "https://github.com/shahzadhamza/exy-router",
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "methods": "^1.1.2",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
